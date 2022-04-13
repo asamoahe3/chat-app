@@ -1,21 +1,48 @@
-# Frontend Mentor - Chat app CSS illustration
+# Frontend Mentor - Chat app CSS illustration solution
 
-![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Welcome! 👋
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+## Overview
 
-**To do this challenge, you need a strong understanding of HTML and CSS.**
+### The challenge
 
-## The challenge
+Users should be able to:
 
-Your challenge is to build out this feature illustration using HTML & CSS and get it looking as close to the design as possible.
+- View the optimal layout for the component depending on their device's screen size
+- **Bonus**: See the chat interface animate on the initial load
 
-The only assets we provide in this challenge are the image of the person in the app UI and the 3 images of the dog. You need to create everything else using HTML & CSS!
+### Screenshot
+
+![](./screenshot.png)
 
 
+### Links
 
-**Have fun building!** 🚀
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+
+## Author
+
+- Frontend Mentor - [@asamoahe3](https://www.frontendmentor.io/profile/yourusername)
+
